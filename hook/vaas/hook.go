@@ -8,9 +8,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/franek1709/mesos-executor-fork/hook"
-	"github.com/franek1709/mesos-executor-fork/mesosutils"
-	"github.com/franek1709/mesos-executor-fork/runenv"
+	"github.com/franek1709/mesos-executor/hook"
+	"github.com/franek1709/mesos-executor/mesosutils"
+	"github.com/franek1709/mesos-executor/runenv"
 )
 
 const vaasBackendIDKey = "vaas-backend-id"

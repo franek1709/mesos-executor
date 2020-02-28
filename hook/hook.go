@@ -2,7 +2,7 @@
 
 package hook
 
-import "github.com/franek1709/mesos-executor-fork/mesosutils"
+import "github.com/franek1709/mesos-executor/mesosutils"
 
 // EventType represents task lifecycle event type.
 type EventType int

@@ -3,7 +3,7 @@ package scraper
 import (
 	"io"
 
-	"github.com/franek1709/mesos-executor-fork/servicelog"
+	"github.com/franek1709/mesos-executor/servicelog"
 )
 
 // Scraper in an interface for various scrapers that support different log formats.

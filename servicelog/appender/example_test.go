@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/franek1709/mesos-executor-fork/servicelog/appender"
+	"github.com/franek1709/mesos-executor/servicelog/appender"
 )
 
 func ExampleNewLogstash() {

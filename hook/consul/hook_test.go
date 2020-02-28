@@ -13,8 +13,8 @@ import (
 	mesos "github.com/mesos/mesos-go/api/v1/lib"
 	"github.com/stretchr/testify/require"
 
-	"github.com/franek1709/mesos-executor-fork/hook"
-	"github.com/franek1709/mesos-executor-fork/mesosutils"
+	"github.com/franek1709/mesos-executor/hook"
+	"github.com/franek1709/mesos-executor/mesosutils"
 )
 
 func TestIfUsesLabelledPortsForServiceIDGen(t *testing.T) {

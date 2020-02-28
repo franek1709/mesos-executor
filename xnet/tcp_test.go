@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/franek1709/mesos-executor-fork/xnet/xnettest"
+	"github.com/franek1709/mesos-executor/xnet/xnettest"
 )
 
 func TestIfTCPNetworkSenderReusesConnections(t *testing.T) {

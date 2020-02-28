@@ -12,9 +12,9 @@ import (
 	"github.com/rcrowley/go-metrics"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/franek1709/mesos-executor-fork/servicelog"
-	"github.com/franek1709/mesos-executor-fork/xio"
-	"github.com/franek1709/mesos-executor-fork/xnet"
+	"github.com/franek1709/mesos-executor/servicelog"
+	"github.com/franek1709/mesos-executor/xio"
+	"github.com/franek1709/mesos-executor/xnet"
 )
 
 const (

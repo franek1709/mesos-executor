@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/franek1709/mesos-executor-fork/xio"
+	"github.com/franek1709/mesos-executor/xio"
 )
 
 func ExampleDecorateWriter() {

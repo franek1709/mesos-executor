@@ -12,7 +12,7 @@ import (
 
 	"fmt"
 
-	"github.com/franek1709/mesos-executor-fork/servicelog"
+	"github.com/franek1709/mesos-executor/servicelog"
 )
 
 const (

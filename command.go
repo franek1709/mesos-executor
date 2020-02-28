@@ -13,10 +13,10 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	osutil "github.com/franek1709/mesos-executor-fork/os"
-	"github.com/franek1709/mesos-executor-fork/servicelog"
-	"github.com/franek1709/mesos-executor-fork/servicelog/appender"
-	"github.com/franek1709/mesos-executor-fork/servicelog/scraper"
+	osutil "github.com/franek1709/mesos-executor/os"
+	"github.com/franek1709/mesos-executor/servicelog"
+	"github.com/franek1709/mesos-executor/servicelog/appender"
+	"github.com/franek1709/mesos-executor/servicelog/scraper"
 	"github.com/mesos/mesos-go/api/v1/lib"
 )
 

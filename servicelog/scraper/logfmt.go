@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-logfmt/logfmt"
 
-	"github.com/franek1709/mesos-executor-fork/servicelog"
+	"github.com/franek1709/mesos-executor/servicelog"
 )
 
 // LogFmt is a scraper for logs in logfmt format.

@@ -15,8 +15,8 @@ import (
 	mesos "github.com/mesos/mesos-go/api/v1/lib"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/franek1709/mesos-executor-fork/mesosutils"
-	"github.com/franek1709/mesos-executor-fork/runenv"
+	"github.com/franek1709/mesos-executor/mesosutils"
+	"github.com/franek1709/mesos-executor/runenv"
 )
 
 // Default for the http health check <host> part.
