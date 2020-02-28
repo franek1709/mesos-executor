@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/allegro/mesos-executor/hook"
+	"github.com/franek1709/mesos-executor-fork/hook"
 )
 
 func TestIfFailsToRunInvalidCommand(t *testing.T) {

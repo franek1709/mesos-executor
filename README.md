@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/allegro/mesos-executor.svg?branch=master)](https://travis-ci.org/allegro/mesos-executor)
 [![Go Report Card](https://goreportcard.com/badge/github.com/allegro/mesos-executor)](https://goreportcard.com/report/github.com/allegro/mesos-executor)
-[![Codecov](https://codecov.io/gh/allegro/mesos-executor/branch/master/graph/badge.svg)](https://codecov.io/gh/allegro/mesos-executor)
+[![Codecov](https://codecov.io/gh/franek1709/mesos-executor-fork/branch/master/graph/badge.svg)](https://codecov.io/gh/allegro/mesos-executor)
 [![GoDoc](https://godoc.org/github.com/allegro/mesos-executor?status.svg)](https://godoc.org/github.com/allegro/mesos-executor)
 
 ![Executor](doc/img/executor-mesos.png)
@@ -192,4 +192,4 @@ Mesos Executor is distributed under the [Apache 2.0 License](LICENSE).
 [10]: https://mesos.apache.org/documentation/latest/mesos-containerizer/
 [11]: https://www.elastic.co/products/logstash
 [12]: https://brandur.org/logfmt
-[14]: https://godoc.org/github.com/allegro/mesos-executor/servicelog
+[14]: https://godoc.org/github.com/franek1709/mesos-executor-fork/servicelog

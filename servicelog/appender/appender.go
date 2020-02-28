@@ -1,6 +1,6 @@
 package appender
 
-import "github.com/allegro/mesos-executor/servicelog"
+import "github.com/franek1709/mesos-executor-fork/servicelog"
 
 // Appender delivers service log entries to their destination.
 type Appender interface {

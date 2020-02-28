@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/allegro/mesos-executor/servicelog"
+	"github.com/franek1709/mesos-executor-fork/servicelog"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

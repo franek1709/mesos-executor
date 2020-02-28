@@ -11,11 +11,11 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/allegro/mesos-executor"
-	"github.com/allegro/mesos-executor/hook"
-	"github.com/allegro/mesos-executor/hook/consul"
-	"github.com/allegro/mesos-executor/hook/vaas"
-	"github.com/allegro/mesos-executor/metrics"
-	"github.com/allegro/mesos-executor/runenv"
+	"github.com/franek1709/mesos-executor-fork/hook"
+	"github.com/franek1709/mesos-executor-fork/hook/consul"
+	"github.com/franek1709/mesos-executor-fork/hook/vaas"
+	"github.com/franek1709/mesos-executor-fork/metrics"
+	"github.com/franek1709/mesos-executor-fork/runenv"
 )
 
 // Version designates the version of application.

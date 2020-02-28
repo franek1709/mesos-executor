@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/allegro/mesos-executor/hook"
-	"github.com/allegro/mesos-executor/hook/exec"
+	"github.com/franek1709/mesos-executor-fork/hook"
+	"github.com/franek1709/mesos-executor-fork/hook/exec"
 )
 
 func ExampleNewHook() {

@@ -1,7 +1,7 @@
 package servicelog
 
 import (
-	"github.com/allegro/mesos-executor/runenv"
+	"github.com/franek1709/mesos-executor-fork/runenv"
 )
 
 // Entry represents one scraped log line in flat key-value store.

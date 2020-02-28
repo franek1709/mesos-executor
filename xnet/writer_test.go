@@ -13,7 +13,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/allegro/mesos-executor/xnet/xnettest"
+	"github.com/franek1709/mesos-executor-fork/xnet/xnettest"
 )
 
 func TestIntegrationWithConsulRoundRobinAndNetworkSend(t *testing.T) {

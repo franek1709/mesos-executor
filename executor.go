@@ -22,12 +22,12 @@ import (
 	"github.com/mesos/mesos-go/api/v1/lib/httpcli"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/allegro/mesos-executor/hook"
-	"github.com/allegro/mesos-executor/mesosutils"
-	"github.com/allegro/mesos-executor/servicelog"
-	"github.com/allegro/mesos-executor/servicelog/appender"
-	"github.com/allegro/mesos-executor/servicelog/scraper"
-	"github.com/allegro/mesos-executor/state"
+	"github.com/franek1709/mesos-executor-fork/hook"
+	"github.com/franek1709/mesos-executor-fork/mesosutils"
+	"github.com/franek1709/mesos-executor-fork/servicelog"
+	"github.com/franek1709/mesos-executor-fork/servicelog/appender"
+	"github.com/franek1709/mesos-executor-fork/servicelog/scraper"
+	"github.com/franek1709/mesos-executor-fork/state"
 )
 
 // EnvironmentPrefix is a prefix for environmental configuration

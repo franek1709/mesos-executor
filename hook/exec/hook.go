@@ -6,7 +6,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/allegro/mesos-executor/hook"
+	"github.com/franek1709/mesos-executor-fork/hook"
 )
 
 // Hook is an executor hook implementation that will call defined external commands

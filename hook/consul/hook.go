@@ -10,9 +10,9 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	executor "github.com/allegro/mesos-executor"
-	"github.com/allegro/mesos-executor/hook"
-	"github.com/allegro/mesos-executor/mesosutils"
-	"github.com/allegro/mesos-executor/runenv"
+	"github.com/franek1709/mesos-executor-fork/hook"
+	"github.com/franek1709/mesos-executor-fork/mesosutils"
+	"github.com/franek1709/mesos-executor-fork/runenv"
 	mesos "github.com/mesos/mesos-go/api/v1/lib"
 )
 

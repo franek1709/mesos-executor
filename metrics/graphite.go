@@ -11,7 +11,7 @@ import (
 	"github.com/rcrowley/go-metrics"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/allegro/mesos-executor/runenv"
+	"github.com/franek1709/mesos-executor-fork/runenv"
 )
 
 const graphiteConfigEnvPrefix = "allegro_executor_graphite"
